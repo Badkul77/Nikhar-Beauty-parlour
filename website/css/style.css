@@ -1,0 +1,20 @@
+.abox
+{
+border: 2px solid red;
+ }
+ .bbox
+{
+border: 2px solid blue;
+ }
+ .cbox
+{
+border: 2px solid #727272;
+ }
+ .dbox
+{
+border: 2px solid yellow;
+ }
+ .h
+ {
+ 	height: 400px;
+ }
